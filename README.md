@@ -13,3 +13,7 @@ To use these workflows, follow these steps:
 3. Copy and paste the desired workflow from this repository into your new workflow file.
 4. Customize the workflow as needed.
 5. Commit and push your changes.
+
+## Contributing
+
+If you have any suggestions or improvements for these workflows, feel free to open an issue or submit a pull request.
